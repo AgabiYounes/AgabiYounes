@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agabiyounes" alt="agabiyounes" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/agabiyounes" target="blank"><img src="https://img.shields.io/twitter/follow/agabiyounes?logo=twitter&style=for-the-badge" alt="agabiyounes" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/younes-agabi/" target="blank"><img src="https://img.shields.io/twitter/follow/agabiyounes?logo=twitter&style=for-the-badge" alt="agabiyounes" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [www.younesagabi.com](www.younesagabi.com)
 
