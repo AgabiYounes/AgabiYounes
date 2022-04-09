@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Younes AGABI</h1>
-<h3 align="center">I'm a passionate Frontend web developer with 2+ years of experience in designing and building responsive web apps. Proficient in CSS, JavaScript 🟡, React and Vue Js 🚀 as well as a good knowledge in Backend with Laravel, with knowledge of UI, UX and user psychology.</h3>
+<h3 align="center">I'm a passionate Frontend web developer. I have a solid experience in designing and building responsive web apps. Proficient in CSS, JavaScript 🟡, React and Vue Js 🚀 as well as a good knowledge in Backend with Laravel, with knowledge of UI, UX and user psychology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agabiyounes&label=Profile%20views&color=0e75b6&style=flat" alt="agabiyounes" /> </p>
 
