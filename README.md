@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/agabiyounes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agabiyounes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/younes agabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="younes agabi" height="30" width="40" /></a>
-<a href="https://fb.com/younes agabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="younes agabi" height="30" width="40" /></a>
+<a href="https://fb.com/younes.agabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="younes agabi" height="30" width="40" /></a>
 <a href="https://instagram.com/younes_agabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="younes_agabi" height="30" width="40" /></a>
 </p>
 
