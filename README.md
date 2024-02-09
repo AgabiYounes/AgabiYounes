@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Younes AGABI</h1>
-<h6 align="center"> am a 🌎 web alchemist with a global mindset, having worked on 🌍 international projects and collaborated with teams from different countries. With many years of experience as a Frontend developer, I have mastered 💻 CSS, JavaScript 🟡, React, Vue Js, Angular, .Net and Laravel🚀 to create dynamic and engaging websites that leave a lasting impression.</br>
+<h6 align="center"> am a 🌎 web alchemist with a global mindset, having worked on 🌍 international projects and collaborated with teams from different countries. With many years of experience as a Frontend developer, I have mastered 💻 CSS, JavaScript 🟡, React, Vue Js, Angular, .Net and Laravel🚀 to create dynamic and engaging websites that leave a lasting impression.</br></br>
 
 My experience working with clients from diverse cultures has given me a unique perspective on user behavior and has taught me to anticipate their needs regardless of their background.</br>
 
