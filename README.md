@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Younes AGABI</h1>
-<h3 align="center">I'm a passionate Frontend web developer. I have a solid experience in designing and building responsive web apps. Proficient in CSS, JavaScript 🟡, React and Vue Js 🚀 as well as a good knowledge in Backend with Laravel, with knowledge of UI, UX and user psychology.</h3>
+<h3 align="center"> am a 🌎 web alchemist with a global mindset, having worked on 🌍 international projects and collaborated with teams from different countries. With many years of experience as a Frontend developer, I have mastered 💻 CSS, JavaScript 🟡, React, Vue Js, Angular, .Net and Laravel🚀 to create dynamic and engaging websites that leave a lasting impression.
+
+My experience working with clients from diverse cultures has given me a unique perspective on user behavior and has taught me to anticipate their needs regardless of their background.
+
+So if you're looking for a 🧙‍♂️ web wizard who can turn your digital dreams into reality, with a deep understanding of global user behavior, let's create something magical together. 🎉</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agabiyounes&label=Profile%20views&color=0e75b6&style=flat" alt="agabiyounes" /> </p>
 
@@ -11,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/younes-agabi/](https://www.linkedin.com/in/younes-agabi/)
 
-- 💬 Ask me about **Frontend, UI/UX Design, JavaScript, React, VueJs, PHP, Laravel**
+- 💬 Ask me about **Frontend, UI/UX Design, JavaScript, TypeScript, Angular, React, VueJs, .Net Core, Laravel**
 
 - 📄 Know about my experiences [www.younesagabi.com](www.younesagabi.com)
 
