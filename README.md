@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="./assets/profile-banner.jpg" alt="Rayane Younes AGABI — AI Systems Engineer & Frontend Architect" width="100%" />
+<br />
+<img src="./assets/profil-banner.jpg" alt="Rayane Younes AGABI — AI Systems Engineer & Frontend Architect" width="100%" />
 
 <br />
 
@@ -41,6 +41,34 @@ I work at the intersection of **frontend architecture** and **AI systems enginee
 My focus is building production-grade platforms where user experience, system architecture, AI orchestration, safety constraints, and measurable product impact all need to work together.
 
 Currently based in **Riyadh, Saudi Arabia**, working on enterprise platforms and AI-powered product experiences.
+
+---
+
+## Tech I work with
+
+<p align="center">
+  <img src="./assets/icons/angular.png" alt="Angular" width="48" />
+  &nbsp;&nbsp;
+  <img src="./assets/icons/react.png" alt="React" width="48" />
+  &nbsp;&nbsp;
+  <img src="./assets/icons/typescript.png" alt="TypeScript" width="48" />
+  &nbsp;&nbsp;
+  <img src="./assets/icons/net-core.png" alt=".NET Core" width="48" />
+  &nbsp;&nbsp;
+  <img src="./assets/icons/google-maps.png" alt="Google Maps" width="48" />
+  &nbsp;&nbsp;
+  <img src="./assets/icons/spring-boot.svg" alt="Spring Boot" width="48" />
+  &nbsp;&nbsp;
+  <img src="./assets/icons/vuejs.svg" alt="Vue.Js" width="48" />
+  &nbsp;&nbsp;
+  <img src="./assets/icons/ai-llm.png" alt="AI LLM" width="48" />
+</p>
+
+<p align="center">
+  <sub>
+    Angular • React • TypeScript • .NET Core • Google Maps • Spring Boot • Vue.Js • AI LLM
+  </sub>
+</p>
 
 ---
 
