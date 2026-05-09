@@ -78,20 +78,7 @@ Currently based in **Riyadh, Saudi Arabia**, working on enterprise platforms and
 | Experience | **9+ years** in software engineering |
 | Delivery | **11 enterprise projects** delivered |
 | International exposure | **4 countries** of professional experience |
-| AIEMS contribution | Helped reduce urgent ambulance response time from **23 min to 12 min** |
 | AI optimization | Reduced LLM token consumption by **65%** through orchestration and prompt optimization |
-
----
-
-## Featured systems
-
-| System | Focus |
-|---|---|
-| **AI Manager Microservice** | Centralized AI orchestration layer for RAG, guardrails, model routing, token optimization, and safe streaming |
-| **AIEMS** | Emergency management workflows, operational dashboards, geospatial interfaces, and response-time improvements |
-| **Tafaqd** | Inspection and compliance workflows enhanced with AI summarization and classification |
-| **Wareed** | Learning/provider platform enhanced with reusable AI assistant UI, SSE streaming, and safe markdown rendering |
-| **@sahab/feature-ai-assistant** | Reusable Angular AI assistant package for chatbot UI, SSE streaming, and safe markdown rendering |
 
 ---
 
@@ -116,18 +103,6 @@ My portfolio presents my work, technical direction, case studies, verified impac
 <a href="https://younesagabi.com">
   <img src="https://img.shields.io/badge/View%20Portfolio-0894FF?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" />
 </a>
-
-</div>
-
----
-
-## GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AgabiYounes&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats for AgabiYounes" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgabiYounes&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages for AgabiYounes" />
 
 </div>
 
