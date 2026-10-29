@@ -1,34 +1,26 @@
 <div align="center">
-<br />
-<img src="./assets/profil-banner.jpg" alt="Rayane Younes AGABI — AI Systems Engineer & Frontend Architect" width="100%" />
 
-<br />
+  <img src="https://younesagabi.com/assets/images/linkedin-cover.jpg" alt="Rayane Younes AGABI — Forward Deployed AI Engineer & Frontend Architect" width="100%" />
 
-# Rayane Younes AGABI
+  <h1>Rayane Younes AGABI</h1>
 
-### AI Systems Engineer & Frontend Architect
+  <h3>Forward Deployed AI Engineer &amp; Frontend Architect</h3>
 
-Building enterprise AI systems, reusable frontend architecture, and production-grade AI-powered product experiences.
+  <p>From customer discovery to production AI features and reusable product interfaces.</p>
 
-<br />
+  <p><strong>Riyadh, Saudi Arabia</strong></p>
 
-<a href="https://younesagabi.com">
-  <img src="https://img.shields.io/badge/Portfolio-younesagabi.com-0894FF?style=for-the-badge" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/younes-agabi/">
-  <img src="https://img.shields.io/badge/LinkedIn-Rayane%20Younes%20AGABI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/AgabiYounes">
-  <img src="https://img.shields.io/badge/GitHub-AgabiYounes-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+  <br />
 
-<br />
-<br />
-
-<img src="https://img.shields.io/badge/AI%20Systems-0894FF?style=flat-square" alt="AI Systems" />
-<img src="https://img.shields.io/badge/Frontend%20Architecture-C959DD?style=flat-square" alt="Frontend Architecture" />
-<img src="https://img.shields.io/badge/RAG%20%26%20LLM%20Orchestration-FF2E54?style=flat-square" alt="RAG and LLM Orchestration" />
-<img src="https://img.shields.io/badge/Enterprise%20Platforms-FF9004?style=flat-square" alt="Enterprise Platforms" />
+  <a href="https://younesagabi.com">
+    <img src="https://img.shields.io/badge/Portfolio-younesagabi.com-0894FF?style=for-the-badge" alt="Visit my portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/younes-agabi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://younesagabi.com/assets/files/Resume_Rayane_Younes_AGABI.pdf">
+    <img src="https://img.shields.io/badge/Download-CV-C959DD?style=for-the-badge" alt="Download my CV" />
+  </a>
 
 </div>
 
@@ -36,137 +28,123 @@ Building enterprise AI systems, reusable frontend architecture, and production-g
 
 ## About
 
-I work at the intersection of **frontend architecture** and **AI systems engineering**.
+I'm a **Forward Deployed AI Engineer & Frontend Architect** with **8+ years of software engineering experience** and a **master's degree specializing in artificial intelligence**.
 
-My focus is building production-grade platforms where user experience, system architecture, AI orchestration, safety constraints, and measurable product impact all need to work together.
+I work directly with customers to understand their operational needs, translate them into technical solutions and deliver AI capabilities within enterprise products. My work spans AI systems engineering, backend integrations and reusable web interfaces, from implementation to production.
 
-Currently based in **Riyadh, Saudi Arabia**, working on enterprise platforms and AI-powered product experiences.
+I also contribute to the development of an **AI coding platform**, working on both the agent harness and the interfaces developers use across web, IDE and desktop applications.
+
+## Experience at a glance
+
+| Area | Background |
+| --- | --- |
+| Software engineering | **8+ years** of experience |
+| Enterprise delivery | **12 projects** delivered |
+| International experience | **4 countries** — Saudi Arabia, France, Australia and Algeria |
 
 ---
 
-## Tech I work with
+## Selected work
 
-<p align="center">
-  <img src="./assets/icons/angular.png" alt="Angular" width="48" />
+### AI coding platform
+
+Contributed to the development of an AI coding platform targeting the **Saudi market**, positioned as an alternative to **Codex and Claude Code**.
+
+My contributions include:
+
+- **AI agent harness:** LLM orchestration, tool execution, MCP integrations and context management.
+- **Agent evaluation:** Evaluation of agent behavior and capabilities.
+- **Product interfaces:** reusable React and TypeScript interfaces across web, VS Code extension and desktop applications.
+
+### Applied AI & business workflows
+
+Worked on a shared enterprise AI service supporting learning, inspection, compliance and emergency operations.
+
+Capabilities include:
+
+- **Summaries and assisted writing:** operational summaries, contextual notes and support-ticket drafting.
+- **Learning and assessment:** multilingual course descriptions, learning objectives, quizzes and translation.
+- **Document-based form generation:** inspection forms and questionnaires created from instructions or uploaded documents.
+- **Operational intelligence:** KPI analysis and risk-based recommendations for inspection planning.
+- **Voice into structured data:** speech transcription and structured extraction to prefill medical reports.
+- **Knowledge-connected assistants:** AI assistants connected to document knowledge and live business APIs.
+
+[Explore my work →](https://younesagabi.com/#projects)
+
+---
+
+## How I work
+
+1. **Understand the workflow**  
+   Work directly with customers to identify the problem, understand the operational context and define clear technical requirements.
+
+2. **Build AI into the product**  
+   Design, develop and integrate AI capabilities, connecting models, backend services and frontend interfaces to solve business problems.
+
+3. **Take it to production**  
+   Drive implementation, integration and deployment, taking the work from an initial solution to a production-ready product.
+
+---
+
+## Technologies
+
+### Frontend
+
+<p>
+  <img src="https://younesagabi.com/assets/icons/react.png" alt="React" title="React" width="40" height="40" />
   &nbsp;&nbsp;
-  <img src="./assets/icons/react.png" alt="React" width="48" />
+  <img src="https://younesagabi.com/assets/icons/vuejs.svg" alt="Vue.js" title="Vue.js" width="40" height="40" />
   &nbsp;&nbsp;
-  <img src="./assets/icons/typescript.png" alt="TypeScript" width="48" />
+  <img src="https://younesagabi.com/assets/icons/angular.png" alt="Angular" title="Angular" width="40" height="40" />
   &nbsp;&nbsp;
-  <img src="./assets/icons/net-core.png" alt=".NET Core" width="48" />
+  <img src="https://younesagabi.com/assets/icons/typescript.png" alt="TypeScript" title="TypeScript" width="40" height="40" />
   &nbsp;&nbsp;
-  <img src="./assets/icons/google-maps.png" alt="Google Maps" width="48" />
-  &nbsp;&nbsp;
-  <img src="./assets/icons/spring-boot.svg" alt="Spring Boot" width="48" />
-  &nbsp;&nbsp;
-  <img src="./assets/icons/vuejs.svg" alt="Vue.Js" width="48" />
-  &nbsp;&nbsp;
-  <img src="./assets/icons/ai-llm.png" alt="AI LLM" width="48" />
+  <img src="https://younesagabi.com/assets/icons/skills/javascript.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />
 </p>
 
-<p align="center">
-  <sub>
-    Angular • React • TypeScript • .NET Core • Google Maps • Spring Boot • Vue.Js • AI LLM
-  </sub>
+React · Vue.js · Angular · TypeScript · JavaScript
+
+### Backend
+
+<p>
+  <img src="https://younesagabi.com/assets/icons/skills/spring-boot.svg" alt="Spring Boot" title="Spring Boot" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://younesagabi.com/assets/icons/skills/spring-ai.svg" alt="Spring AI" title="Spring AI" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://younesagabi.com/assets/icons/skills/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://younesagabi.com/assets/icons/skills/redis.svg" alt="Redis" title="Redis" width="40" height="40" />
 </p>
 
----
+Spring Boot · Spring AI · PostgreSQL · Redis
 
-## Current focus
+### AI Systems
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>AI Systems</h3>
-      <p>RAG, LLM orchestration, guardrails, safe streaming, model routing, and token-aware AI features.</p>
-    </td>
-    <td width="50%">
-      <h3>Frontend Architecture</h3>
-      <p>Reusable UI libraries, scalable Angular/React applications, design systems, and enterprise frontend patterns.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Product Platforms</h3>
-      <p>Operational dashboards, AI assistants, workflow systems, learning platforms, and decision-support interfaces.</p>
-    </td>
-    <td width="50%">
-      <h3>Data & Visualization</h3>
-      <p>Geospatial dashboards, live tracking, charts, maps, and interfaces that turn complex data into action.</p>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://younesagabi.com/assets/icons/skills/python.svg" alt="Python" title="Python" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://younesagabi.com/assets/icons/huggingface.png" alt="Hugging Face" title="Hugging Face" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://younesagabi.com/assets/icons/skills/pytorch.svg" alt="PyTorch" title="PyTorch" width="40" height="40" />
+</p>
+
+Python · Hugging Face · PyTorch
 
 ---
 
-## Selected impact
+## Education & research
 
-| Area | Verified impact |
-|---|---|
-| Experience | **9+ years** in software engineering |
-| Delivery | **11 enterprise projects** delivered |
-| International exposure | **4 countries** of professional experience |
-| AI optimization | Reduced LLM token consumption by **65%** through orchestration and prompt optimization |
+- **Master's Degree — Intelligent Computer Systems Engineering**  
+  Specialization in artificial intelligence · Algiers University · 2018–2020.
 
----
-
-## Stack by capability
-
-| Capability | Tools & technologies |
-|---|---|
-| **Frontend Architecture** | Angular, React, Vue, TypeScript, RxJS, SCSS, reusable libraries |
-| **AI & LLM Systems** | RAG, LLM orchestration, guardrails, model routing, token optimization, safe streaming, Groq |
-| **Backend Integration** | Spring Boot, REST APIs, SSE streaming, microservices architecture, secure API integration |
-| **Data & Visualization** | ECharts, Leaflet, Chart.js, geospatial dashboards, operational maps, Power BI integrations |
-| **Product Engineering** | enterprise UI, responsive systems, accessibility, maintainability, production delivery |
-
----
-
-## Portfolio
-
-My portfolio presents my work, technical direction, case studies, verified impact, recommendations, and CV.
-
-<div align="center">
-
-<a href="https://younesagabi.com">
-  <img src="https://img.shields.io/badge/View%20Portfolio-0894FF?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" />
-</a>
-
-</div>
-
----
-
-## What I care about
-
-- Architecture before implementation
-- User experience before visual noise
-- Safety and reliability before AI hype
-- Production constraints before demos
-- Maintainable systems before clever code
-- Measurable impact before vanity metrics
+- **AI / ML & NLP Research Internship**  
+  Deakin University, Australia · 2019–2020. Research collaboration on a question-answering system for my master's thesis.
 
 ---
 
 ## Connect
 
-<div align="center">
-
-<a href="https://younesagabi.com">
-  <img src="https://img.shields.io/badge/Website-younesagabi.com-0894FF?style=for-the-badge" alt="Website" />
-</a>
-<a href="https://www.linkedin.com/in/younes-agabi/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/AgabiYounes">
-  <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Building systems where frontend architecture meets AI engineering.
-
-</div>
+- **Portfolio:** [younesagabi.com](https://younesagabi.com)
+- **LinkedIn:** [linkedin.com/in/younes-agabi](https://www.linkedin.com/in/younes-agabi/)
+- **Email:** [younes.agabi03@gmail.com](mailto:younes.agabi03@gmail.com)
+- **CV:** [Download PDF](https://younesagabi.com/assets/files/Resume_Rayane_Younes_AGABI.pdf)
